@@ -1,0 +1,9 @@
+body{
+    background-color: yellow;
+    background-image: url(https://img.wallpapic.com/i7582-945-829/thumb/mountains-nature-reflection-snow-wallpaper.jpg);
+    background-repeat: repeat-y;
+    background-size:300px,300px  ;
+    background-position: center left;
+    background-attachment:fixed ;
+    
+}
